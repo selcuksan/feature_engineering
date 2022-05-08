@@ -81,7 +81,7 @@ Değer      Bin
 31-70  ->  Mid       
 71-100 ->  High
 
-  * Kategorik Binning Örneği
+* Kategorik Binning Örneği
   Değer      Bin       
   Spain  ->  Europe      
   Italy  ->  Europe       
