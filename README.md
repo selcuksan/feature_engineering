@@ -27,7 +27,6 @@ Kaynak: https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-t
     One-Hot Encoding
     Feature Extraction
     Scaling
-    Extracting Date
     
     
 ### Imputation
